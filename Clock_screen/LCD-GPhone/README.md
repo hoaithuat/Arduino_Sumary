@@ -5,7 +5,7 @@ Link bài viết : [Link](http://arduino.vn/tutorial/1319-st7565-huong-dan-su-du
 
 Hình ảnh của LCD Gphone
 
-![Hình ảnh của LCD:](http://k1.arduino.vn/img/2016/11/08/0/3299_12315469-1478612440-0-14e05c4a7862f1421c16ec1f68dc0fc7ef9e3457876a880c02b69af7feb5c4ce.jpg)
+<img src="http://k1.arduino.vn/img/2016/11/08/0/3299_12315469-1478612440-0-14e05c4a7862f1421c16ec1f68dc0fc7ef9e3457876a880c02b69af7feb5c4ce.jpg">
 
 Và đây:
 
