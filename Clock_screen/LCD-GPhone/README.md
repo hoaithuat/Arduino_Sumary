@@ -27,6 +27,6 @@ Và các link thao khảo thư viện khác:
 
 ## Lưu ý khi sử dụng
 
-Điện áp hoạt động 3v3 và mức tín hiệu SPI cũng là 0-3v3
+' Điện áp hoạt động 3v3 và mức tín hiệu SPI cũng là 0-3v3 '
 
  
