@@ -3,9 +3,9 @@
 Thư viện dùng cho GPhone và arduino , tham khảo từ diễn đàn Arduino Việt Nam
 Link bài viết : [Link](http://arduino.vn/tutorial/1319-st7565-huong-dan-su-dung-glcd-st7565-homephone-va-chia-se-thu-vien)
 
-Hình ảnh của LCD Gphone
+Hình ảnh của **LCD Gphone**
 
-![Hình ảnh của LCD:](http://k1.arduino.vn/img/2016/11/08/0/3299_12315469-1478612440-0-14e05c4a7862f1421c16ec1f68dc0fc7ef9e3457876a880c02b69af7feb5c4ce.jpg)
+<img src="http://k1.arduino.vn/img/2016/11/08/0/3299_12315469-1478612440-0-14e05c4a7862f1421c16ec1f68dc0fc7ef9e3457876a880c02b69af7feb5c4ce.jpg">
 
 Và đây:
 
@@ -27,6 +27,6 @@ Và các link thao khảo thư viện khác:
 
 ## Lưu ý khi sử dụng
 
-Điện áp hoạt động 3v3 và mức tín hiệu SPI cũng là 0-3v3
+` Điện áp hoạt động 3v3 và mức tín hiệu SPI cũng là 0-3v3 `
 
  
